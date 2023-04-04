@@ -8,8 +8,11 @@ One of the first 15 year old Quest Modders to travel the earth, but today's mod 
 
 You will probably need:
 [QPM-Rust by RedBrumbler](https://github.com/RedBrumbler/QuestPackageManager-Rust/) -> (this thing lets you uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh, build the mod?)
+
 [Visual Studio Code](https://code.visualstudio.com) -> (Any editor that can handle epic awesome code will do, but VSC is apparently really good for this sort of stuff? I don't know why, i find it kinda trash)
+
 [Android NDKs (I use R.25.C)](https://developer.android.com/ndk/downloads) -> (to build the thing. you need a .txt file called 'ndkpath.txt'.)
+
 [To Subscribe To My YouTUbe Channel](https://youtube.com/c/kaylerr) -> (i may like you more)
 
 ## Credits
